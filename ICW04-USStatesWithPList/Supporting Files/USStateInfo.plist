@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Alabama</key>
+	<dict>
+		<key>Name</key>
+		<string>Alabama</string>
+		<key>Year</key>
+		<string>1783</string>
+		<key>Capital</key>
+		<string>Montgomery</string>
+		<key>Flag</key>
+		<string>Flags/Small/alabama-flag-small</string>
+		<key>Motto</key>
+		<string>We dare to defend our rights</string>
+		<key>Population</key>
+		<string>4,863,300 </string>
+	</dict>
+	<key>Alaska</key>
+	<dict>
+		<key>Name</key>
+		<string>Alaska</string>
+		<key>Year</key>
+		<string>1959</string>
+		<key>Capital</key>
+		<string>Juneau</string>
+		<key>Flag</key>
+		<string>Flags/Small/alaska-flag-small</string>
+		<key>Motto</key>
+		<string>North to the Future</string>
+		<key>Population</key>
+		<string>741,894</string>
+	</dict>
+	<key>Arizona</key>
+	<dict>
+		<key>Name</key>
+		<string>Arizona</string>
+		<key>Year</key>
+		<string>1912</string>
+		<key>Capital</key>
+		<string>Phoenix</string>
+		<key>Flag</key>
+		<string>Flags/Small/arizona-flag-small</string>
+		<key>Motto</key>
+		<string>God enriches</string>
+		<key>Population</key>
+		<string>6,931,071</string>
+	</dict>
+	<key>Arkansas</key>
+	<dict>
+		<key>Name</key>
+		<string>Arkansas</string>
+		<key>Year</key>
+		<string>1836</string>
+		<key>Capital</key>
+		<string>Little Rock</string>
+		<key>Flag</key>
+		<string>Flags/Small/arkansas-flag-small</string>
+		<key>Motto</key>
+		<string>The People Rule</string>
+		<key>Population</key>
+		<string>2,988,248</string>
+	</dict>
+	<key>California</key>
+	<dict>
+		<key>Name</key>
+		<string>California</string>
+		<key>Year</key>
+		<string>1850</string>
+		<key>Capital</key>
+		<string>Sacramento</string>
+		<key>Flag</key>
+		<string>Flags/Small/california-flag-small</string>
+		<key>Motto</key>
+		<string>Eureka</string>
+		<key>Population</key>
+		<string>39,250,017 </string>
+	</dict>
+	<key>Colorado</key>
+	<dict>
+		<key>Name</key>
+		<string>Colorado</string>
+		<key>Year</key>
+		<string>1876</string>
+		<key>Capital</key>
+		<string>Denver</string>
+		<key>Flag</key>
+		<string>Flags/Small/colorado-flag-small</string>
+		<key>Motto</key>
+		<string>Nothing without providence</string>
+		<key>Population</key>
+		<string>5,540,545</string>
+	</dict>
+	<key>Florida</key>
+	<dict>
+		<key>Name</key>
+		<string>Florida</string>
+		<key>Year</key>
+		<string>1845</string>
+		<key>Capital</key>
+		<string>Tallahasse</string>
+		<key>Flag</key>
+		<string>Flags/Small/florida-flag-small</string>
+		<key>Motto</key>
+		<string>In God We Trust</string>
+		<key>Population</key>
+		<string>20,612,439 </string>
+	</dict>
+	<key>New Jersey</key>
+	<dict>
+		<key>Name</key>
+		<string>New Jersey</string>
+		<key>Year</key>
+		<string>1787</string>
+		<key>Capital</key>
+		<string>Trenton</string>
+		<key>Flag</key>
+		<string>Flags/Small/new-jersey-flag-small</string>
+		<key>Motto</key>
+		<string>Liberty and prosperity</string>
+		<key>Population</key>
+		<string>8,944,469</string>
+	</dict>
+	<key>New York</key>
+	<dict>
+		<key>Name</key>
+		<string>New York</string>
+		<key>Year</key>
+		<string>1788 </string>
+		<key>Capital</key>
+		<string>Albany</string>
+		<key>Flag</key>
+		<string>Flags/Small/new-york-flag-small</string>
+		<key>Motto</key>
+		<string>Ever upward</string>
+		<key>Population</key>
+		<string>19,745,289</string>
+	</dict>
+	<key>South Carolina</key>
+	<dict>
+		<key>Name</key>
+		<string>South Carolina</string>
+		<key>Year</key>
+		<string>1788</string>
+		<key>Capital</key>
+		<string>Columbia</string>
+		<key>Flag</key>
+		<string>Flags/Small/south-carolina-flag-small</string>
+		<key>Motto</key>
+		<string>While I Breathe I Hope</string>
+		<key>Population</key>
+		<string>4,961,119 </string>
+	</dict>
+	<key>South Dakota</key>
+	<dict>
+		<key>Name</key>
+		<string>South Dakota</string>
+		<key>Year</key>
+		<string>1889</string>
+		<key>Capital</key>
+		<string>Sioux Falls</string>
+		<key>Flag</key>
+		<string>Flags/Small/south-dakota-flag-small</string>
+		<key>Motto</key>
+		<string>Under God the people rule</string>
+		<key>Population</key>
+		<string>865,454 </string>
+	</dict>
+</dict>
+</plist>
